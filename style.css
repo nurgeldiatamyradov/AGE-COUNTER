@@ -1,0 +1,23 @@
+.container-1 {
+    border: 1px solid black;
+    background-color: rgb(162, 187, 113);
+}
+
+.flex-box-container-1 {
+background-color:rgb(162, 187, 113); ;
+    padding: 10px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+flex-direction: initial;
+border: 1px solid black   
+
+    
+}
+.flex-box-container-1 div {
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    
+}
